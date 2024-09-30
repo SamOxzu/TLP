@@ -1,0 +1,4 @@
+[debug] [vpl-2-test] Classpath dependencies List()
+[debug] [vpl-2-test] Dependencies from configurations List(vpl-2)
+[debug] Bloop wrote the configuration of project 'vpl-2-test' to 'C:\Users\a\AppData\Local\Temp\vpl-2\.bloop\vpl-2-test.json'
+[success] Generated .bloop\vpl-2-test.json
